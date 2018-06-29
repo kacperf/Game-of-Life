@@ -1,0 +1,1 @@
+﻿Game of Life is an example of "Zero-player game". Live of every cell on the board depends on closest neighbours; if a cell has more than 3 live neighbours, or less than 2 live neighbours, it dies. If cell has exactly 3 live cells neighbours it becomes alive and can impact on another cells etc. Game based on object oriented Javascript and ES6.
